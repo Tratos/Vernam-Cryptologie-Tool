@@ -1,2 +1,2 @@
 # Vernam-Cryptologie-Tool
-  one-time pad (OTP) Cryptp Tool
+  one-time pad (OTP) Crypt Tool
